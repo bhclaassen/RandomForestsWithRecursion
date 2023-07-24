@@ -9,7 +9,7 @@
 
 # NOTES -------------------------------------------------------------------
 ## All character classes in data set must be binary
-## Outcome variable must be binary and 0/1 in format
+## Outcome variable must be binary and {0,1} in format
 
 
 # Libraries ---------------------------------------------------------------
